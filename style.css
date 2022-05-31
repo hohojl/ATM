@@ -1,0 +1,17 @@
+input#transaction-amount {
+  width: 6em;
+}
+
+form.container {
+  max-width: 45rem;
+  background-color: rgb(145, 196, 227);
+}
+
+body {
+  background-color:rgb(38, 123, 123);
+}
+
+.btn {
+background-color: rgb(150, 146, 146);
+}
+  
